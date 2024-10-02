@@ -1,0 +1,1 @@
+A responsive Registration & Login Form using HTML and Tailwind CSS. Focused on creating a simple, user-friendly interface with full responsiveness for different devices using Tailwind's utilities, implemented basic HTML form validation through attributes like required and type. The project is ready for integration with external authentication systems.
